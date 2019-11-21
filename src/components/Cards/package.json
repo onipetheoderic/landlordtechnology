@@ -1,0 +1,6 @@
+{
+    "main":"Cards.js",
+    "author": "Theoderic Onipe",
+    "description": "To provide proper Card menu, using styled components"
+
+}

@@ -1,0 +1,6 @@
+{
+    "main":"navigationMenu.js",
+    "author": "Theoderic Onipe",
+    "description": "To provide Proper and responsive navigation, using react-router and styled components"
+
+}
